@@ -1,0 +1,17 @@
+section {
+    display: flex;
+  }
+  
+  section .weather {
+    border: 1px solid #ccc;
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    border-color: black;
+    box-shadow: 2px 2px 2px black;
+  }
+  
+  .weather span {
+    font-weight: bold;
+  }
+  

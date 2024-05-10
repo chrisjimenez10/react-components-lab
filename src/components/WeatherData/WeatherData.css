@@ -1,0 +1,10 @@
+h2, p, span, #data {
+    background-color: hsla(0, 0%, 90%, 1);
+    border-radius: 15px;
+}
+
+#data {
+    margin-top: 4px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+}
